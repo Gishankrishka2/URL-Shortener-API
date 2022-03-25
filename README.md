@@ -7,9 +7,9 @@
 
 ## Base URL
 
-Genarate Short URL - `https://api.g99solutions.com/linkshort?url=`
+`https://api.g99solutions.com/linkshort?url=`
 
-Statistics - `https://api.g99solutions.com/linkshort?stats=`
+`https://api.g99solutions.com/linkshort?stats=`
 
 ## Example
 
@@ -18,4 +18,4 @@ Genarate Short URL - `https://api.g99solutions.com/linkshort?url=https://t.me/G9
 Statistics - `https://api.g99solutions.com/linkshort?stats=https://link.g99solutions.com/MKzkX4b`
 
 # What is URL-Short-API ?
-URL-Short-API can Short your Long URL in Second !
+URL-Short-API can short your long URL in seconds, It also lets you know how many times your link has been visited !
